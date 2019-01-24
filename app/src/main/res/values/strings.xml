@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AppVet</string>
+
+
+    <string-array name="sexo">
+        <item>M</item>
+        <item>F</item>
+    </string-array>
+    <string-array name="esterilizacion">
+        <item>Si</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="razas">
+        <item>Pastor alemán</item>
+        <item>San Bernardo</item>
+        <item>Labrador</item>
+        <item>Rottweiler</item>
+        <item> Boxer</item>
+        <item>Schnauzer</item>
+        <item>Dóberman</item>
+        <item>Dálmata</item>
+
+    </string-array>
+
+    <string-array name="ciudad">
+        <item>Iquitos</item>
+        <item>Tarapoto</item>
+        <item>Yurimaguas</item>
+        <item>Nauta</item>
+    </string-array>
+    <string-array name="distrito">
+        <item>Iquitos</item>
+        <item>Belen</item>
+        <item>San Juan Bautista</item>
+        <item>Punchana</item>
+    </string-array>
+
+
+</resources>
